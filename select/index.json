@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "GRL GVNG",
+  "base_artist": "XG",
+  "createdAt": "2026-03-11T06:33:30.216863Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GRL GVNG",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/01_GRL_GVNG_XG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GRL GVNG",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/02_GRL_GVNG_XG.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GRL GVNG",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/03_GRL_GVNG_XG.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GRL GVNG x XDM",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/04_GRL_GVNG_x_XDM_XG.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HOWLING & GRL GVNG - XG 1st WORLD TOUR “The first HOWL” Live",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/05_HOWLING_&_GRL_GVNG_-_XG_1st_WORLD_TOUR_“The_first_HOWL”_Live_XG.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GRL GVNG",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_GRL_GVNG_XG.txt"
+    }
+  ]
+}
